@@ -4,7 +4,7 @@
 Các sản phẩm đều là Open Source. Các lập trình viên có thể yêu cầu lấy các sản phẩm dưới dạng mã nguồn của <b>H2iM</b> qua eMail: <i>devx@h2im.studio</i>.
 
 # Cài đặt
-Chưa cập nhật ...
+Chưa cập nhật
 
 # Đóng góp
 Chưa cập nhật
